@@ -1,0 +1,6 @@
+D:\Telerik kurs\C# PartII\Homeworks\HW3-Methods\10.CalculateNFacturielwithDigitsInArray\bin\Debug\10.CalculateNFacturielwithDigitsInArray.exe.config
+D:\Telerik kurs\C# PartII\Homeworks\HW3-Methods\10.CalculateNFacturielwithDigitsInArray\bin\Debug\10.CalculateNFacturielwithDigitsInArray.exe
+D:\Telerik kurs\C# PartII\Homeworks\HW3-Methods\10.CalculateNFacturielwithDigitsInArray\bin\Debug\10.CalculateNFacturielwithDigitsInArray.pdb
+D:\Telerik kurs\C# PartII\Homeworks\HW3-Methods\10.CalculateNFacturielwithDigitsInArray\obj\Debug\10.CalculateNFacturielwithDigitsInArray.exe
+D:\Telerik kurs\C# PartII\Homeworks\HW3-Methods\10.CalculateNFacturielwithDigitsInArray\obj\Debug\10.CalculateNFacturielwithDigitsInArray.pdb
+D:\Telerik kurs\C# PartII\Homeworks\HW3-Methods\10.CalculateNFacturielwithDigitsInArray\obj\Debug\10.CalculateNFacturielwithDigitsInArray.csprojResolveAssemblyReference.cache
